@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/roborolodex/static/css/main.26148d86.chunk.css",
+    "main.js": "/roborolodex/static/js/main.f8d0af0f.chunk.js",
+    "main.js.map": "/roborolodex/static/js/main.f8d0af0f.chunk.js.map",
+    "runtime-main.js": "/roborolodex/static/js/runtime-main.4784151d.js",
+    "runtime-main.js.map": "/roborolodex/static/js/runtime-main.4784151d.js.map",
+    "static/js/2.1b35cb52.chunk.js": "/roborolodex/static/js/2.1b35cb52.chunk.js",
+    "static/js/2.1b35cb52.chunk.js.map": "/roborolodex/static/js/2.1b35cb52.chunk.js.map",
+    "index.html": "/roborolodex/index.html",
+    "precache-manifest.cf8d9b977a2f2720400409cbe240afa2.js": "/roborolodex/precache-manifest.cf8d9b977a2f2720400409cbe240afa2.js",
+    "service-worker.js": "/roborolodex/service-worker.js",
+    "static/css/main.26148d86.chunk.css.map": "/roborolodex/static/css/main.26148d86.chunk.css.map",
+    "static/js/2.1b35cb52.chunk.js.LICENSE.txt": "/roborolodex/static/js/2.1b35cb52.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/roborolodex/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4784151d.js",
+    "static/js/2.1b35cb52.chunk.js",
+    "static/css/main.26148d86.chunk.css",
+    "static/js/main.f8d0af0f.chunk.js"
+  ]
+}
